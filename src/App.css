@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+
+
+ol {
+  background: #9a0ddc;
+  padding: 20px;
+}
+
+ol li {
+  background: #e8a4e5;
+  color: rgb(17, 7, 81);
+  margin: 5px;
+}
